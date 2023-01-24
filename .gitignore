@@ -2,4 +2,7 @@ test
 __pycache__
 db.sqlite3
 migrations
-api/dist/notation/v1.pgn
+api/dist/notation
+*/dist
+api/dist
+./api/dist/notation
